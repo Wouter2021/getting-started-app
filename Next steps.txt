@@ -1,0 +1,7 @@
+Next steps:
+
+1) More tutorials on Docker
+https://docs.docker.com/get-started/04_sharing_app/
+
+2) Grafana setup
+https://grafana.com/docs/grafana/latest/setup-grafana/installation/
